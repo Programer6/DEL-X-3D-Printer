@@ -65,7 +65,8 @@ Using the provided repository including CAD files, STLs, BOM, image for wiring y
 
 ---
 
-For purchasable links 
+**Purchase Links & Pricing**  
+For direct links to purchase each component, check out the Google Sheets BOM: [View & Buy Parts](https://docs.google.com/spreadsheets/d/1YkbswMdvz8Wfhi4MrrZ9T6xIMiGSr8R6hmByEVLgUXc/edit?gid=0)
 
 
 ## 📄 License
