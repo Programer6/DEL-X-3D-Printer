@@ -2,8 +2,8 @@
 
 ## Project Overview
 
-Fusion3D is a custom‑designed FDM 3D printer, fully OPEN Source.  
-This build was my deep dive into printer mechanics, electronics, and firmware—packaged as an open‑source project you can replicate or remix.
+DelX is a custom‑designed FDM 3D printer, fully OPEN Source.  
+This build was my deep dive into printer mechanics, electronics, and is open‑source project you can replicate or remix.
 
 
 
