@@ -16,6 +16,8 @@ This build was my deep dive into printer mechanics, electronics, and firmware—
 Using the provided repository including CAD files, STLs, BOM, image for wiring you will have all the tools to replicate this 3D printer and make your own
 
 
+
+
 ## 🔗 Useful Resources
 
 - [Maker Mash-Up Tutorial](https://www.youtube.com/watch?v=EX62plOF-So&list=PLyYZUiBHD1QjaYx7eCEW8zXvsgwEbAykY) – A hands-on video series covering foundational 3D printing concepts.
@@ -23,6 +25,9 @@ Using the provided repository including CAD files, STLs, BOM, image for wiring y
 - [Complete Newbie Step-by-Step 3D Printer Guide](https://www.instructables.com/Complete-newbie-step-by-step-3D-printer-with-all-p/) – tutorial to walk you through every build stage.
 
 (Image to be added soon onces built!!)
+
+
+
 ## 📦 Bill of Materials
 
 | Part                                               | Qty Needed           |
@@ -64,6 +69,7 @@ Using the provided repository including CAD files, STLs, BOM, image for wiring y
 | 12864 LCD Smart Controller (graphical display)      | 1                    |
 
 ---
+
 
 **Purchase Links & Pricing**  
 For direct links to purchase each component, check out the Google Sheets BOM: [View & Buy Parts](https://docs.google.com/spreadsheets/d/1YkbswMdvz8Wfhi4MrrZ9T6xIMiGSr8R6hmByEVLgUXc/edit?gid=0)
