@@ -11,6 +11,9 @@ This build was my deep dive into printer mechanics, electronics, and firmware—
 
 
 
+
+
+
 - **Print Volume:** 220 × 220 × 250 mm  
 - **Frame:** 2020 & 2040 aluminum extrusion  
 - **Motion:** CoreXY with linear rails  
