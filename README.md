@@ -5,7 +5,11 @@
 Fusion3D is a custom‑designed FDM 3D printer, fully OPEN Source.  
 This build was my deep dive into printer mechanics, electronics, and firmware—packaged as an open‑source project you can replicate or remix.
 
+
+
 <img width="533" alt="image" src="https://github.com/user-attachments/assets/cad6d5d0-6d77-48eb-ad47-8b2ca981828d" />
+
+
 
 - **Print Volume:** 220 × 220 × 250 mm  
 - **Frame:** 2020 & 2040 aluminum extrusion  
