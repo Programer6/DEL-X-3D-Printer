@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6df55ba0-de7b-4ac0-938e-399bedba13e0)# DEL-X-3D-Printer
+# DEL-X-3D-Printer
 
 ## Project Overview
 
